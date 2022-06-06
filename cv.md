@@ -19,7 +19,7 @@ and web application with database. Currently working on web-store of a fitness c
  * PostgreSQL, MySQL
  * HTML, CSS
  * Git
- * IntelliJ IDEA, VS Code
+ * IntelliJ IDEA, WebStorm, VS Code
 ***
 ### **Code example:**
 ```javascript
@@ -43,11 +43,13 @@ public class Multiply {
 3. [Cloud (Desktop version)](https://github.com/kastkest/biomech_warehouse)
     * JavaFX
     * Netty API
+***
 ### **Education**
 1. Moscow State University of Ingeneer Ecology: Master's Degree in HVAC field
 2. Higher School of Economics: Marketing and Economics courses
 3. GeekBrains: Java web-developer
 4. Udemy: Java, Spring, PostgreSQL
 5. CodeGym: Java Core, Java Multithreading, Java Collections
+***
 ### **English level:**
 Level - C1: I'm working in International Companies for 8 years. Every day I have some discussion with foreign partners and sometimes have business trips in Europe
