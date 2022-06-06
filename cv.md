@@ -1,7 +1,6 @@
 
 ![Photo](https://user-images.githubusercontent.com/96120687/172063182-de03e77c-6034-4aac-90fa-ce6acfd90d76.jpg)
 # **Konstantin Kasterov**
-***
 ### **Contact information:**
 #### **Phone:** +7 995 783 23 91
 #### **E-mail:** k.kasterov@gmail.com
