@@ -20,6 +20,7 @@ and web application with database. Currently working on web-store of a fitness c
  * HTML, CSS
  * Git
  * IntelliJ IDEA, WebStorm, VS Code
+ 
 ***
 ### **Code example:**
 ```javascript
