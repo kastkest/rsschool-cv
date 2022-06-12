@@ -44,6 +44,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  box-shadow: 10px 10px 40px -1px rgba(0, 0, 0, 0.23);
 }
 
 .nav-list {
@@ -53,6 +54,8 @@ body {
   list-style: none;
   margin: 0;
   padding-left: 0;
+  background: lightgrey;
+  border-bottom: 1px solid #2b2b2b;
 }
 
 .nav-link {
@@ -139,11 +142,17 @@ code {
 .footer {
   display: flex;
   justify-content: space-between;
+  background: lightgrey;
+  padding: 0 10px;
+  border-top: 1px solid #2b2b2b;
 }
 .footer-left {
   display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
 .year {
-  padding: 0 10px;
+  padding-right: 10px;
 }
 
