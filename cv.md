@@ -11,7 +11,7 @@
 ### **About Myself:**
 During study in the University have been made plenty of software projects for mathematics tasks solutions. I got a professional education of Java Web-developer.
 Self-motivated and have good skills to educate, can work in a team or alone, several years work remotely. I have experience of development and deployment of desktop 
-and web application with database. Currently working on web-store of a fitness company (Web app + cloud + telegramm bot).
+and web application with database. Currently, working on web-store of a fitness company (Web app + cloud + telegram bot).
 
 ***
 ### **Skills:**
