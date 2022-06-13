@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Roboto Light";
   src: url("./assets/fonts/Roboto-light.ttf");
-  font-weight: 700;
+
 
 }
 
@@ -29,7 +29,7 @@ html {
 
 body {
   font-family: "Roboto Light";
-  font-weight: 500;
+  font-weight: 50;
   min-height: 100vh;
   margin: 0; padding: 20px;
   display: flex;
