@@ -1,1 +1,1 @@
-## https://kastkest.github.io/rsschool-cv/
+## https://kastkest.github.io/rsschool-cv/cv

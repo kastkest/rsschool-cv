@@ -49,7 +49,7 @@ public class Multiply {
 
 ***
 ### **Education**
-* Moscow State University of Ingeneer Ecology: Master's Degree in HVAC field
+* Moscow State University of Engineer Ecology: Master's Degree in HVAC field
 * Higher School of Economics: Marketing and Economics courses
 * GeekBrains: Java web-developer
 * Udemy: Java, Spring, PostgreSQL
